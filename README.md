@@ -3,11 +3,11 @@
 In this repo, the use of the qiskit framework is included as a starter for quantum programming.
 
 
-## Qiskit basics
+# Qiskit basics
 
-# Qiskit installation and test
+## Qiskit installation and test
 
-# First Quantum Programs with Qiskit
+## First Quantum Programs with Qiskit
 
 - Design a circuit
 - Visualize the circuit
@@ -15,7 +15,7 @@ In this repo, the use of the qiskit framework is included as a starter for quant
 - Quantum assembly language
 - A quantum circuit with more quantum bits
 
-# Qiskit Reference
+## Qiskit Reference
 
 - Creating a quantum circuit
 - One qubit gates
